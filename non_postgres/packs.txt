@@ -1,0 +1,164 @@
+wall shot mastery:8989-46CE-AE49-0561:{shoot,}
+advanced rebounds:A33B-12BA-9F5E-EBD4:{rebounds,}
+advanced aerials:6CE4-7D20-7BD5-C800:{aerial,}
+intermediate aerials:537C-F257-0F3A-4CB0:{aerial,}
+advanced goalie:776F-E2BB-2993-78D7:{}
+popup aerials:DE43-1984-7858-7A57:{aerial,}
+basic wall clears:70F1-3753-10A1-BA21:{clear,}
+air dribbles:6D84-3B06-1FA9-CAB8:{dribble,}
+advanced wall clears:0A7E-C7C8-DE7C-28CA:{clear,}
+power clears:34E3-CD33-0A2C-D9BA:{clear,}
+power shots:3B69-B8C9-D4B2-A7E3:{shoot,}
+pinch shots:AA69-A904-F2C5-AF69:{shoot,}
+tight angles:63F5-2ACB-2B05-8B46:{angle,}
+half-flips:B194-732A-5AE2-2C61:{flip,}
+basic wall shots:2D48-B683-1236-C0B1:{shoot,}
+kickoffs:4125-17D5-2C7B-EBEF:{kickoff,}
+basic (inverted) redirects:0697-0491-2D8A-8124:{redirects,}
+advanced redirects (1-13):CEE4-14DF-0F50-1FCE:{redirects,}
+advanced redirects (14-26):382B-6321-161F-5E98:{redirects,}
+no boost saves:9A9C-FE4C-6685-915F:{saves,}
+basic backboard double taps/passes:FDED-E1E4-19A9-D130:{double tap,}
+advanced backboard double taps:0BFE-2943-AC6C-E032:{double tap,}
+shadow saves:6A8C-7B90-2AAA-B6B5:{saves,}
+hook shots:54C3-691A-4F62-801F:{shoot,}
+passing (downfield left):C833-6A35-A46A-7191:{}
+passing (downfield right):0590-9035-801A-E423:{}
+passing (infield):CDBB-8953-C052-654F:{}
+passing (backboard):3075-D01E-A839-8E65:{}
+ceiling shots:AFC9-2CCC-95EC-D9D4:{shoot,}
+air roll powershots:D502-4970-8E17-7493:{shoot,}
+offensive corner bounces:423F-750F-72C7-B44D:{corner,}
+pre-jump backboard clears:F1D5-36FA-257C-80A8:{clear,}
+intermediate power slides:A49C-FECE-12C7-9271:{}
+dribble flick playground:7067-44F0-A1C8-7DAC:{dribble,}
+air roll ground shots:B4EB-C56A-BA9D-5300:{shoot,}
+advanced corner defense:253E-4CE2-B0A4-A5E1:{defense,}
+sidewall prediction:40F5-A497-3534-56AD:{wall,}
+driving backwards:A60C-4CD2-80FF-C932:{}
+backwards aerials:9A54-0D10-1717-7F4F:{aerial,}
+advanced wall shots:872B-1941-BC35-8E3C:{shoot,}
+goal roof saves:8100-D918-13C7-394F:{saves,}
+realistic air dribbles:D74D-FB19-06F3-CC67:{dribble,}
+novice aerials:0A40-E21D-61C1-49C6:{aerial,}
+novice rebounds:C64E-54EA-FA78-707E:{rebounds,}
+novice clears:E530-9668-C5B6-086F:{clear,}
+novice striker:137F-0F44-6FA1-91EE:{}
+novice defender:87E7-773A-CBE5-B2C3:{}
+bounce prediction 2.0:1C21-97B2-28FC-8F35:{}
+uncomfortable wall touches:A4CB-CBCD-E11F-8A51:{wall,}
+(mini) aerial hangs:331A-CF98-F2AE-AE9E:{aerial,}
+back wall shots:B185-5419-CF91-B420:{shoot,}
+air roll aerials:30EF-9E98-C844-E83D:{aerial,}
+uncomfortable power hits:AB3C-2C28-BE2E-D5EC:{}
+redirect consistency:410E-0170-C52F-E8A0:{consistency,}
+grand champion redirects:34AF-5323-A9EF-E80D:{redirects,}
+catches:A85F-0C53-A1BE-75EB:{}
+rebound consistency:E744-D5FC-64A7-037F:{consistency,}
+double touch consistency:01DC-0717-23F6-E5E7:{consistency,}
+shooting consistency:4912-A5C9-9A56-555D:{consistency,}
+ceiling bounces:D68F-3BD8-6DFD-4A51:{}
+tips and doinks:8BED-540E-E0DE-7409:{}
+striker instinct:AE53-497A-804E-AD39:{}
+high aerials:2059-414E-B380-3257:{aerial,}
+double tap playground:CAFC-FB3E-3C0F-B8F1:{double tap,}
+advanced ceiling shots:86BB-9444-FFD6-D610:{shoot,}
+wall clear timing:A3F6-E341-A813-20E6:{clear,}
+back flip powershots:1C5E-9B8C-C3B4-DBDE:{shoot,}
+wall speed:8FCC-C1CA-0117-B015:{wall,}
+drift & wave dash recovery:C809-86F7-C4BB-F1C1:{}
+falling dodge timing:F1B4-5009-14A7-D22B:{}
+turn and clear:2710-736C-B1A7-E648:{clear,}
+ball carry:004F-04F5-FA01-ED18:{}
+bounce dribble:5B28-3395-F15A-01E3:{dribble,}
+freestyles:53BD-4CDF-CC23-F2CE:{}
+retreating saves:DA4B-98A0-BDBD-D36E:{saves,}
+sideways aerials:EA43-4BC8-8068-B032:{aerial,}
+back wall clears:23C2-024C-9C08-CF31:{clear,}
+corner defense:12AD-1F43-BE6C-A750:{defense,}
+wall shots:B670-C0F6-623D-D031:{shoot,}
+backboard rebounds:EAFD-E47A-19AC-9036:{rebounds,}
+off and on shots:65BE-E2AC-DFEF-D474:{shoot,}
+90 degree aerials:9ACD-CA3D-B52B-0130:{aerial,}
+kickoff redirects:370C-9A18-5C4D-2A1B:{redirects,}
+wall air dribble:C0DE-BFD7-4B51-B0F1:{dribble,}
+kickoff redirects:AEA3-64CF-4309-A0FA:{redirects,}
+masonrl air dribbles:A67A-8A08-B91C-77DC:{dribble,}
+shot consistency:1C51-E578-6CEA-79DE:{shoot,}
+karma's training pack:0C38-2D11-109D-EAF3:{}
+easy redirects and backboard shots:7D8F-A579-6A47-4DFA:{shoot,}
+relaxing shots:1467-6232-A3A9-E9C3:{shoot,}
+seebs mixed bag:799B-5986-25F0-27C0:{}
+ultimate warmup, 50 shots!:DF5E-21DD-54B7-A56F:{shoot,}
+wall shots:89CC-7D0D-00FA-CB2C:{shoot,}
+nick's warmup drills:0B61-E93D-06A2-0CFE:{warmup,}
+basic striker:CD9F-35DB-4025-F731:{shot,}
+advanced striker:C8B8-A3CC-B543-6635:{shot,}
+dribbling:3CD7-85FA-811B-BC25:{dribble,}
+ball catches:C1D5-318A-14BC-A4D0:{dribble,}
+defensive rotation:0591-21C8-169E-3B47:{defense,}
+novice powerslides:4A33-624C-0916-8A62:{powerslide,}
+flick sandbox:A980-5F8F-1951-708E:{flicks,}
+bounce prediction:7B59-EF5B-8F71-645B:{bounce,}
+rebounds/double touch:5B1B-F918-20B9-81C1:{rebounds,}
+dribble turning training:257B-829D-1BDB-479E:{dribble,}
+biddles warmup #1:AA16-1CC4-3EDC-F8F9:{warmup,}
+biddles warmup #2:1D5C-22AB-DD8A-7EE6:{warmup,}
+biddles progression:7E96-B9C7-3AC0-9B70:{}
+biddles consistency #1:55C9-36FE-613D-7F12:{consistency,}
+biddles consistency #2:27FE-E3D7-7FB5-7F43:{consistency,}
+passes you should put on net:E5AC-0297-356A-3FF7:{}
+wall to backboard double touch:9658-BA57-D8BB-5BA1:{wall,}
+biddles wall bounce clears:E445-AA70-ABF1-1631:{clear,}
+wall "pinches":DD78-31C9-C06E-D1F6:{wall,}
+biddles insane aerials:4352-185A-E719-98D3:{aerial,}
+easy backboard rebound shots:2719-4FBA-A810-0B47:{shoot,}
+backboard shots:93F5-4449-9B4D-FC86:{shoot,}
+saves:7033-6D0F-770A-9F1E:{saves,}
+clears:C5B4-0C98-5073-BB98:{clear,}
+wall shots:F4AB-99FA-D6B4-A05F:{shoot,}
+backboard saves:1CD8-5861-D9C9-9657:{saves,}
+angle shots:A8EA-2C17-FEA5-4D19:{shoot,}
+air dribbling:D749-88BB-AF78-1ABE:{}
+double touches:D545-35A7-72E0-C59C:{}
+pass redirects:B584-8606-10A5-00E1:{redirects,}
+pinching:447F-E68A-DD0C-CB6F:{}
+angled angel saves:DA99-C25B-AFC0-B13D:{saves,}
+basic shots 1:E146-BD21-EBE3-8D47:{shoot,}
+doinks:D0BF-3B8E-0264-1FAF:{}
+monster clear shots:0B3C-B98D-46AB-490D:{shoot,}
+powershots:7028-5E10-88EF-E83E:{shoot,}
+ceiling shots:94D7-0D24-CCDF-7A7A:{shoot,}
+air dribbling:C15E-3E88-8FDE-E850:{}
+rebound shots (backboard):CC09-D39F-19FC-A030:{shoot,}
+wall air drags:2607-D2A5-E72D-DA62:{wall,}
+epic saves:84C8-9584-693F-D743:{saves,}
+japanese freestyle:5689-7BDE-487A-11C1:{}
+insane redirects:F272-0A07-6130-96B4:{redirects,}
+delayed flicks:3337-A6D5-AFF9-C2C6:{}
+mastering kickoffs:8939-4C63-B233-83C1:{kickoff,}
+air roll shots:84D2-072D-80CF-7D0D:{shoot,}
+ball flip reset shots:B5AC-17E0-4133-B8A4:{shoot,}
+wave dash shots:F9EF-2D99-BA51-9E8A:{shoot,}
+no flip clears:50A0-CCEF-2350-4A46:{clear,}
+cancel/half flip shots:306E-237A-053E-BE1E:{shoot,}
+wall stop shots:4D75-FCFE-4D1D-9E70:{shoot,}
+wall redirects:399A-A83A-5D48-9D57:{redirects,}
+overhead saves:9223-FCC3-D504-D1B8:{saves,}
+redirects:C272-B586-A45A-3675:{redirects,}
+redirects 2:DD33-F54B-933C-702B:{redirects,}
+underside redirects:4C9D-1E98-80E4-2AEF:{redirects,}
+pre-jumping:2BA6-DB20-F66F-9B25:{}
+basic wall and ground dribble:6B41-2BF7-9A73-F150:{dribble,}
+carl's aerial easy training:F7F0-76FC-994E-3304:{aerial,}
+carl's aerial training:57AA-3994-71EC-7BCD:{aerial,}
+carl's goalie training:ABD0-D3D9-A1A9-0CAB:{}
+topside redirects:6468-C527-DE04-5514:{redirects,}
+backboard dive saves:688C-D602-EFBB-948E:{saves,}
+backboard therapy:D7F8-FD53-98D1-DAFE:{backboard,}
+basic goalie:8AB4-EEDA-CEAB-4BC4:{defense,}
+passing sandbox:8B98-96AA-86E4-7A63:{pass,}
+rocketeer dribbling:9863-6D3C-AF72-A7E3:{dribble}
+test1:test1:test1
+test2:test2:test2
+test3:test3:test3
