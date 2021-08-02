@@ -159,6 +159,3 @@ backboard therapy:D7F8-FD53-98D1-DAFE:{backboard,}
 basic goalie:8AB4-EEDA-CEAB-4BC4:{defense,}
 passing sandbox:8B98-96AA-86E4-7A63:{pass,}
 rocketeer dribbling:9863-6D3C-AF72-A7E3:{dribble}
-test1:test1:test1
-test2:test2:test2
-test3:test3:test3
